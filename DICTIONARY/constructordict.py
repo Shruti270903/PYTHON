@@ -1,0 +1,5 @@
+dict1= dict( name = "shruti", age = "mohan", true = "love")
+print(dict1)
+dict1 = dict (name = "shruti", age = 20)
+print(dict1)
+print(type(dict1))

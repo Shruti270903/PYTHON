@@ -1,0 +1,5 @@
+students = ['a', 'b', 'c', 'd', 'e', 'f']
+students[2]= 'g'
+print(students)
+students[1:3] = 'm','n'   #1:3????????????????
+print(students) 
